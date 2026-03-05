@@ -50,4 +50,4 @@ public class UseCase6PalindromeCheckerApp {
             System.out.println("Result : Not a Palindrome ❌");
         }
     }
-}s
+}
